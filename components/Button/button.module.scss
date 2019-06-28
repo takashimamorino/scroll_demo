@@ -1,0 +1,17 @@
+.button {
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  right: 20px;
+  bottom: 10px;
+  background: #ef3f40;
+  opacity: 0.8;
+  border-radius: 50%;
+
+  a {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+}
